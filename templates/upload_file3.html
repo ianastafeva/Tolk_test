@@ -1,0 +1,54 @@
+<!doctype html>
+
+ <title>Chatbot</title>
+    <form action="" method=post style="text-align:center" enctype=multipart/form-data>
+
+    <h1> Vos data avec notre Chatbot!</h1>
+      <p>Choisir un fichier pour le chatbot:</p>
+      <p><input type=file name=file>
+
+        <form class="form-inline" method="POST">
+        <div class="form-group">
+          <div class="input-group">
+                <span class="input-group-addon">Type de données:</span>
+                    <select name="comp_select" class="selectpicker form-control">
+                 {% for o in data %}
+                 <option value="{{ o.name }}">{{ o.name }}</option>
+                 {% endfor %}
+                 </select>
+</div>
+</div>
+<form class="form-inline" method="POST">
+        <div class="form-group">
+          <div class="input-group">
+ 
+
+                <span class="input-group-addon">Secteur d'activite:</span>
+                    <select name="comp_select1" class="selectpicker form-control$
+                 {% for oo in data3 %}
+                 <option value="{{oo.name }}">{{ oo.name }}</option>
+                 {% endfor %}
+                 </select>
+
+
+ </div>
+</div> 
+
+<div class="form-group">
+
+    <button type="submit" class="btn btn-default">Submit</button>
+
+ </div>
+ 
+<div class="form-group">
+
+<a href="{{ url_for('test') }}"> Dis bonjour à ton Chatbot! </a>
+
+  </div>
+
+</form>
+
+
+
+
+
