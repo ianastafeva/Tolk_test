@@ -6,7 +6,7 @@ The poject is desgined to allow users (customers) to train more (fine-tune) pre-
 
 ![flowchart](https://github.com/ianastafeva/Tolk_test/blob/8f6ee04043d5e35d373d4cde858b9a8efde844f3/Chatbot_API_flowchart.png?raw=true)
 
-
+It should be mentioned that the preprocessing block of the project is only envisioned and not implemented due the fact that there is a NLP difficulity present here. The difficulity  
 ## Set up
 Clone or download the project files to local device and unzip it
 
