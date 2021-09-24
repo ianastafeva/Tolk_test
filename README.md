@@ -3,7 +3,7 @@
 # Description of the developed software
 
 
-![alt text](https://github.com/ianaastafeva/Tolk_test/Chatbot\ API\ flowchart.png?raw=true)
+![flowchart](https://github.com/ianaastafeva/Tolk_test/Chatbot_API_flowchart.png?raw=true)
 
 
 ## Set up
