@@ -1,3 +1,3 @@
 # Folder description
 
-This folder contain the pre-trained save model (chatbot)
+This folder contains the pre-trained save model (chatbot)
