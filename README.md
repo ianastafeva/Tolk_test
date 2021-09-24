@@ -1,7 +1,8 @@
 # Tolk_test
 
-# Description of the developed software
+## Description of the developed software
 
+The poject is desgined to allow users (customers) to train more (fine-tune) pre-trained classification models (classification of chatbot intentions) with personalized dataset by interacting with an API built to let the users select the pre-trained model (chatbot) based on domain, upload thier new dataset and interact with the newly fine-tuned chatbot. The flowchart below illustrates an overview of the project process.   
 
 ![flowchart](https://github.com/ianastafeva/Tolk_test/blob/8f6ee04043d5e35d373d4cde858b9a8efde844f3/Chatbot_API_flowchart.png?raw=true)
 
