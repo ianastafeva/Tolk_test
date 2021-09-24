@@ -16,7 +16,7 @@ Clone or download the project files to local device and unzip it
 
 3) Create an new virtual environment with the following command:
 
-   conda create -n chatbot_api python=3.8.5
+   >conda create -n chatbot_api python=3.8.5
 
 4) Activate the environment with the following command:
 
