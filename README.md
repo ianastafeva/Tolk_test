@@ -8,7 +8,9 @@ The project is designed to allow users (customers) to train more (fine-tune) pre
 
 It should be mentioned that the preprocessing block of the project is only envisioned and not implemented because there is an NLP difficulty present here. The difficulty is how to restructure the new dataset (especially if there are no strict rules on the formating of the dataset) in the same way as the original dataset used to build the model selected by the user. What I mean by that is, for example, if the user dataset is plain text, how to extract the relevant information such as intention, patterns, and responses from such text. One solution is to develop an NLP model that can recognize common similarities in the dataset, split the dataset into classes (intentions) based on the similarity, then restructure each class to patterns and responses. I am not sure if such solution is actually feasible as I didn't have enough time to test its applicability. 
 
-The difficulty is not only specific for the model in this project as it is also present in more advanced ones such as RASA NLU where the set of labels (intents, actions, entities, and slots) for which the base model is trained should be exactly the same as the ones present in the training data used for finetuning.
+The difficulty is not only specific for the model in this project as it is also present in more advanced ones such as RASA NLU where the set of labels (intents, actions, entities, and slots) for which the base model is trained should be exactly the same as the ones present in the training data used for fine-tuning.
+
+Finally, when testing the fine-tuned model (chatbot) through the API, one can notice that the responses are stange and that because our integration of the chatbot with the API is not accurate.  
 
 
 ## Set up
