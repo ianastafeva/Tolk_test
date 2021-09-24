@@ -33,7 +33,9 @@ Clone or download the project files to local device and unzip it
 
 6) Download needed nltk files by the following commands:
    >python
+   
    >import nltk 
+   
    >nltk.download()
  
  In the GUI window that opens simply press the 'Download' button to download all corpora
@@ -63,7 +65,9 @@ Now the user is set to run the codes of the projects
 
 7) Download needed nltk files by the following commands:
    >python
+   
    >import nltk 
+   
    >nltk.download()
  
  In the GUI window that opens simply press the 'Download' button to download all corpora
