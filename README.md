@@ -40,7 +40,10 @@ Clone or download the project files to local device and unzip it
    
    >nltk.download()
  
- In the GUI window that opens simply press the 'Download' button to download all corpora
+   In the GUI window that opens simply press the 'Download' button to download all corpora
+   
+7) Once the downloading is finished, close the GUI and quit the python environment by the following command:
+   >quit() 
 
 Now the user is set to run the codes of the projects
 
@@ -72,9 +75,13 @@ Now the user is set to run the codes of the projects
    
    >nltk.download()
  
- In the GUI window that opens simply press the 'Download' button to download all corpora
+   In the GUI window that opens simply press the 'Download' button to download all corpora
+   
+8) Once the downloading is finished, close the GUI and quit the python environment by the following command:
+   >quit()
 
 Now the user is set to run the codes of the projects
 
 ## Run
-to the run the codes, the user 
+to the run the codes and API, the user only has to run the following command:
+>python API_Chatbot.py
