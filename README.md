@@ -31,6 +31,13 @@ Clone or download the project files to local device and unzip it
 
    >pip install -r requirements.txt
 
+6) Download needed nltk files by the following commands:
+   >python
+   >import nltk 
+   >nltk.download()
+ 
+ In the GUI window that opens simply press the 'Download' button to download all corpora
+
 Now the user is set to run the codes of the projects
 
 ### The user doesn't have anaconda python in his/her device
@@ -53,6 +60,13 @@ Now the user is set to run the codes of the projects
 6) Install the needed python packages with the following command:
 
    >pip install -r requirements.txt
+
+7) Download needed nltk files by the following commands:
+   >python
+   >import nltk 
+   >nltk.download()
+ 
+ In the GUI window that opens simply press the 'Download' button to download all corpora
 
 Now the user is set to run the codes of the projects
 
