@@ -1,0 +1,16 @@
+###essential
+numpy==1.19.5
+nltk==3.5
+Werkzeug==0.16.0
+scikit-learn==0.23.1
+
+###Tensorflow
+keras==2.6.0
+tensorflow==2.6.0
+
+###API
+flask==1.1.2
+
+
+
+
