@@ -1,3 +1,3 @@
-# Folder description
+# Description du dossier
 
-This folder contains the databases that the user can use to fine-tune the pre-trained models (chatbots)
+Ce dossier contient les bases de données que l'utilisateur peut utiliser pour affiner les modèles pré-entraînés (chatbots).
