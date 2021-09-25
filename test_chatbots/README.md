@@ -1,3 +1,3 @@
-# Folder description
+# Description du dossier
 
-This folder contains the files needed to test the fine-tuned models (chatbots) locally
+Ce dossier contient les fichiers nécessaires pour tester localement les modèles affinés (chatbots).
