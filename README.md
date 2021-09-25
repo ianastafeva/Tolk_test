@@ -101,3 +101,5 @@ or
 
 or
 >python chat_voyage_test.py
+
+Even with testing locally the responses may still look strange and that because of the low quality of the models themselves. 
