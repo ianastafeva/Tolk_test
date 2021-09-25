@@ -93,7 +93,7 @@ And finally in the web browser, the user should upload a fine-tuning database (f
 The user can interact with the newly fine-tuned chatbot through the API. However, as explained above, due to integration issues, the chatbot responses don't make sense.
 
 ## Test chatbots locally
-to test the newly fine-tuned chatbots, the user should quit the API in the terminal and run one of the following commands (one for each chatbot domain):
+to test the newly fine-tuned chatbots, the user should quit the API in the terminal (CTRL+C) and run one of the following commands (one for each chatbot domain):
 >python chat_dialog_test.py
 
 or 
