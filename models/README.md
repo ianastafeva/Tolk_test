@@ -1,9 +1,9 @@
-# Folder description
+# Description du dossier
 
-This folder contains the scripts used to create the chatbots and the datasets used to initially train them:
+Ce dossier contient les scripts utilisés pour créer les chatbots et les jeux de données utilisés pour les entraîner initialement :
 
-For the model named train_chatbot_dialogue.py, the initial training dataset is intents1.json
+Pour le modèle appelé train_chatbot_dialogue.py, l'ensemble de données d'entraînement initial est intents1.json.
 
-For the model named train_chatbot_anecdote.py, the initial training dataset is human_banter.json
+Pour le modèle appelé train_chatbot_anecdote.py, le jeu de données d'entraînement initial est human_banter.json.
 
-For the model named train_chatbot_voyage.py, the initial training dataset is travel.json
+Pour le modèle nommé train_chatbot_voyage.py, l'ensemble de données d'entraînement initial est travel.json.
