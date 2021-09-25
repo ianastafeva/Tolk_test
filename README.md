@@ -88,7 +88,7 @@ to the run the codes and API, the user only has to run the following command:
 
 Then copy the link displayed in the terminal and paste it into a web browser. The link should be this one (http://localhost:5000/) or something like it.
 
-And finally in the web browser, the user should upload a fine-tuning database (for now must be one of the json files in the folder "databases"), select the data type (for now must be json), and the domain of the model (chatbot) and then click submit. 
+And finally in the web browser, the user should upload a fine-tuning dataset (for now must be one of the json files in the folder "databases"), select the data type (for now must be json), and the domain of the model (chatbot) and then click submit. 
 
 The user can interact with the newly fine-tuned chatbot through the API. However, as explained above, due to integration issues, the chatbot responses don't make sense.
 
