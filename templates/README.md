@@ -1,3 +1,3 @@
-# Folder description
+# Description du dossier
 
-This folder contains the templates needed for the API
+Ce dossier contient les modèles nécessaires pour l'API.
