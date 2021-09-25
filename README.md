@@ -10,7 +10,7 @@ It should be mentioned that the preprocessing block of the project is only envis
 
 The difficulty is not only specific for the model in this project as it is also present in more advanced ones such as RASA NLU where the set of labels (intents, actions, entities, and slots) for which the base model is trained should be exactly the same as the ones present in the training data used for fine-tuning.
 
-Finally, when testing the fine-tuned model (chatbot) through the API, one can notice that the responses are stange and that because our integration of the chatbot with the API is not accurate. Therefore, the user can test the newly fine-tuned chatbot locally as described below.
+Finally, when testing the fine-tuned model (chatbot) through the API, one can notice that the responses are strange, and that's because our integration of the chatbot with the API is not accurate. Therefore, the user can test the newly fine-tuned chatbot locally, as described below.
 
 
 ## Set up
@@ -90,7 +90,7 @@ Then copy the link displayed in the terminal and paste it into a web browser. Th
 
 And finally in the web browser, the user should upload a fine-tuning database (for now must be one of the json files in the folder "databases"), select the data type (for now must be json), and the domain of the model (chatbot) and then click submit. 
 
-The user can interact with the newly fine-tuned chatbot through the API. However, as explained above, due to integration issues, the chatbot resposes don't make sense.
+The user can interact with the newly fine-tuned chatbot through the API. However, as explained above, due to integration issues, the chatbot responses don't make sense.
 
 ## Test chatbots locally
 to test the newly fine-tuned chatbots, the user should quit the API in the terminal and run one of the following commands (one for each chatbot domain):
